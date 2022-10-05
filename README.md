@@ -4,6 +4,7 @@
 
 React <br>
 TypeScript <br>
+CSS Styled componets
 <h3> APIs usadas </h3>
 FakeAPI com MirageJs <br>
 Axios (para fazer as requisições)
